@@ -1,0 +1,11 @@
+C:\Users\timfr\source\repos\CookLook\CookLook\bin\Debug\netcoreapp3.0\CookLook.exe
+C:\Users\timfr\source\repos\CookLook\CookLook\bin\Debug\netcoreapp3.0\CookLook.deps.json
+C:\Users\timfr\source\repos\CookLook\CookLook\bin\Debug\netcoreapp3.0\CookLook.runtimeconfig.json
+C:\Users\timfr\source\repos\CookLook\CookLook\bin\Debug\netcoreapp3.0\CookLook.runtimeconfig.dev.json
+C:\Users\timfr\source\repos\CookLook\CookLook\bin\Debug\netcoreapp3.0\CookLook.dll
+C:\Users\timfr\source\repos\CookLook\CookLook\bin\Debug\netcoreapp3.0\CookLook.pdb
+C:\Users\timfr\source\repos\CookLook\CookLook\obj\Debug\netcoreapp3.0\CookLook.csprojAssemblyReference.cache
+C:\Users\timfr\source\repos\CookLook\CookLook\obj\Debug\netcoreapp3.0\CookLook.AssemblyInfoInputs.cache
+C:\Users\timfr\source\repos\CookLook\CookLook\obj\Debug\netcoreapp3.0\CookLook.AssemblyInfo.cs
+C:\Users\timfr\source\repos\CookLook\CookLook\obj\Debug\netcoreapp3.0\CookLook.dll
+C:\Users\timfr\source\repos\CookLook\CookLook\obj\Debug\netcoreapp3.0\CookLook.pdb
